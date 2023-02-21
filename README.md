@@ -5,7 +5,7 @@
 
 # Awesome Dart Frog
 
-Welcome! This repo is intended to highlight some awesome Dart Frog resources — articles, videos, open source projects, and more! If you have something to add, please review the contributing guide before opening a PR.
+Welcome! This repo is intended to highlight some awesome Dart Frog resources — articles, videos, open source projects, and more! If you have something to add, please review the [contributing guide](https://github.com/VeryGoodOpenSource/awesome_dart_frog/blob/main/CONTRIBUTING.md) before opening a PR.
 
 [Dart Frog](https://github.com/VeryGoodOpenSource/dart_frog) is a fast, minimalistic backend framework for Dart built by [Very Good Ventures](https://verygood.ventures/). It can increase efficiency by allowing you to share code, tooling, and processes across the front and backend.
 
