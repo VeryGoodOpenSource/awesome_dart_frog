@@ -14,7 +14,7 @@ Welcome! This repo is intended to highlight some awesome Dart Frog resources —
 
 - [Articles and tutorials](#articles-and-tutorials)
     - [Series](#series)
-    - [Articles](#articles)
+    - [Articles and tutorials](#articles)
 - [Libraries and plugins](#libraries-and-plugins)
 - [Projects](#projects)
     - [Open source repos](#open-source-repos)
@@ -45,11 +45,12 @@ Welcome! This repo is intended to highlight some awesome Dart Frog resources —
 - [Building a Fullstack App with dart_frog and Flutter in a Monorepo - Part 5](https://saileshdahal.com.np/building-a-fullstack-app-with-dartfrog-and-flutter-in-a-monorepo-part-5)
 - [Building a Fullstack App with dart_frog and Flutter in a Monorepo - Part 6](https://saileshdahal.com.np/building-a-fullstack-app-with-dartfrog-and-flutter-in-a-monorepo-part-6)
 
-### Articles
+### Articles and tutorials
 
 - [Building a Tweet Screenshot API with Dart Frog 🐸, & Puppeteer 🐾 ](https://zfinix.medium.com/building-a-tweet-screenshot-api-with-dart-frog-puppeteer-7e8da301dd32) by Chiziaruhoma Ogbonda
 - [Dart Frog in 15 mins | Dart Frog for Server Apps 🎯🐸 | Dart on Server | Zero to Prod](https://www.youtube.com/watch?v=U0PqwMrIJcE) by aseem wangoo
 - [Use Dart on Servers with Dart Frog — The complete crash course](https://tomicriedel.medium.com/cff6fc9f033b) by Tomic Riedel
+- [Real-Time Games with Dart :: Flutter Forward](https://youtu.be/TGKipiJhpXo) by Dominik Roszkowski and Felix Angelov
 
 ## Libraries and plugins 
 
