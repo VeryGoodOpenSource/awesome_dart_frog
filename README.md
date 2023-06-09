@@ -76,6 +76,7 @@ Welcome! This repo is intended to highlight some awesome Dart Frog resources —
 - [I/O FLIP](https://github.com/flutter/io_flip): An AI-designed card game built with Flutter and Firebase for Google I/O 2023, by [Google](https://github.com/flutter) and [Very Good Ventures](https://github.com/VGVentures).
 - [Flutter News Toolkit](https://github.com/flutter/news_toolkit): A news template application built in Flutter, by [Google](https://github.com/flutter) and [Very Good Ventures](https://github.com/VGVentures).
 - [Talk Stream](https://github.com/Yczar/talk-stream-backend): A chat application built using Flutter & Dart Frog, by [Yczar](https://github.com/Yczar).
+- [Rive Live](https://github.com/rive-app/rive_live): An app built by the [Rive team](https://rive.app/) to interact with their team during their [livestreams](https://www.youtube.com/watch?v=1Nilq-avNc4)
 
 ### Apps
 
