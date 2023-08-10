@@ -56,6 +56,7 @@ Welcome! This repo is intended to highlight some awesome Dart Frog resources —
 - [Real-Time Games with Dart :: Flutter Forward](https://youtu.be/TGKipiJhpXo) by Dominik Roszkowski and Felix Angelov
 - [How to Create User Registration and Login API with Dart Frog + MongoDB + JWT](https://medium.com/@karokojnr/how-to-create-user-registration-and-login-api-with-dart-frog-mongodb-jwt-c4fb7f3f6086) by Kennedy Karoko
 - [Bridging the gap: Distributed tracing for Flutter and Backend](https://medium.com/@jonasuekoetter/bridging-the-gap-distributed-tracing-for-flutter-and-backend-4943799b0ea9) by Jonas Uekötter
+- [Crash Course: Basics of Dart Frog](https://www.youtube.com/watch?v=bN5XsAPr-oc) by UltrasDzCoder
 - [Building a Full Stack App with Dart and Flutter | MonoRepo, Melos, and Dart 3 Course](https://youtu.be/_LhSRbekY5k) by Codepur
 
 ## Libraries and plugins
