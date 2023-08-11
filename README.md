@@ -57,7 +57,8 @@ Welcome! This repo is intended to highlight some awesome Dart Frog resources —
 - [How to Create User Registration and Login API with Dart Frog + MongoDB + JWT](https://medium.com/@karokojnr/how-to-create-user-registration-and-login-api-with-dart-frog-mongodb-jwt-c4fb7f3f6086) by Kennedy Karoko
 - [Bridging the gap: Distributed tracing for Flutter and Backend](https://medium.com/@jonasuekoetter/bridging-the-gap-distributed-tracing-for-flutter-and-backend-4943799b0ea9) by Jonas Uekötter
 - [Crash Course: Basics of Dart Frog](https://www.youtube.com/watch?v=bN5XsAPr-oc) by UltrasDzCoder
-
+- [Elevate Your Flutter Web Hosting with Dart_Frog](https://jxstxn.dev/elevate-your-flutter-web-hosting-with-dartfrog) by Justin Baumann
+  
 ## Libraries and plugins
 
 ### Official
