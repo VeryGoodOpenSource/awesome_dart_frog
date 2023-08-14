@@ -59,6 +59,10 @@ Welcome! This repo is intended to highlight some awesome Dart Frog resources —
 - [Crash Course: Basics of Dart Frog](https://www.youtube.com/watch?v=bN5XsAPr-oc) by UltrasDzCoder
 - [Building a Full Stack App with Dart and Flutter | MonoRepo, Melos, and Dart 3 Course](https://youtu.be/_LhSRbekY5k) by Codepur
 
+#### Articles by [Yousef Salah Kassem](https://www.yousefsalahkassem.com/)
+
+- [Dart Frog — The Frog Prince 🐸, Building Book Library Apis with Dart Frog](https://medium.com/@yousefsalah_85714/dart-frog-the-frog-prince-8dbb647b3e99) by Yousef Salah Kassem
+
 ## Libraries and plugins
 
 ### Official
@@ -79,7 +83,9 @@ Welcome! This repo is intended to highlight some awesome Dart Frog resources —
 - [I/O FLIP](https://github.com/flutter/io_flip): An AI-designed card game built with Flutter and Firebase for Google I/O 2023, by [Google](https://github.com/flutter) and [Very Good Ventures](https://github.com/VGVentures).
 - [Flutter News Toolkit](https://github.com/flutter/news_toolkit): A news template application built in Flutter, by [Google](https://github.com/flutter) and [Very Good Ventures](https://github.com/VGVentures).
 - [Talk Stream](https://github.com/Yczar/talk-stream-backend): A chat application built using Flutter & Dart Frog, by [Yczar](https://github.com/Yczar).
-- [Rive Live](https://github.com/rive-app/rive_live): An app built by the [Rive team](https://rive.app/) to interact with their team during their [livestreams](https://www.youtube.com/watch?v=1Nilq-avNc4)
+- [Rive Live](https://github.com/rive-app/rive_live): An app built by the [Rive team](https://rive.app/) to interact with their team during their [livestreams](https://www.youtube.com/watch?v=1Nilq-avNc4).
+- [Book Library System](https://github.com/YousefSalahKassem/book_library): A book library system built using Dart Frog including Postman collection by [Yousef Salah kassem](https://github.com/YousefSalahKassem).
+
 
 ### Apps
 
