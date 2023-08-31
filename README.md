@@ -58,9 +58,6 @@ Welcome! This repo is intended to highlight some awesome Dart Frog resources —
 - [Bridging the gap: Distributed tracing for Flutter and Backend](https://medium.com/@jonasuekoetter/bridging-the-gap-distributed-tracing-for-flutter-and-backend-4943799b0ea9) by Jonas Uekötter
 - [Crash Course: Basics of Dart Frog](https://www.youtube.com/watch?v=bN5XsAPr-oc) by UltrasDzCoder
 - [Building a Full Stack App with Dart and Flutter | MonoRepo, Melos, and Dart 3 Course](https://youtu.be/_LhSRbekY5k) by Codepur
-
-#### Articles by [Yousef Salah Kassem](https://www.yousefsalahkassem.com/)
-
 - [Dart Frog — The Frog Prince 🐸, Building Book Library Apis with Dart Frog](https://medium.com/@yousefsalah_85714/dart-frog-the-frog-prince-8dbb647b3e99) by Yousef Salah Kassem
 
 ## Libraries and plugins
