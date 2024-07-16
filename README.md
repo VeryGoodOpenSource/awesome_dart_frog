@@ -11,13 +11,21 @@ Welcome! This repo is intended to highlight some awesome Dart Frog resources —
 
 ## Contents
 
-- [Articles and tutorials](#articles-and-tutorials)
-  - [Series](#series)
-  - [Articles and tutorials](#articles)
-- [Libraries and plugins](#libraries-and-plugins)
-- [Projects](#projects)
-  - [Open source repos](#open-source-repos)
-  - [Apps](#apps)
+- [Awesome Dart Frog](#awesome-dart-frog)
+  - [Contents](#contents)
+  - [Articles and tutorials](#articles-and-tutorials)
+    - [Series](#series)
+      - [Articles by Felix Angelov](#articles-by-felix-angelov)
+      - [Livestreams by Craig Labenz on the Flutter YouTube channel](#livestreams-by-craig-labenz-on-the-flutter-youtube-channel)
+      - [Articles by Md. Mobin](#articles-by-md-mobin)
+      - [Articles by Sailesh Dahal](#articles-by-sailesh-dahal)
+    - [Articles and tutorials](#articles-and-tutorials-1)
+  - [Libraries and plugins](#libraries-and-plugins)
+    - [Official](#official)
+    - [Community](#community)
+  - [Projects](#projects)
+    - [Open source repos](#open-source-repos)
+    - [Apps](#apps)
 
 ## Articles and tutorials
 
@@ -60,6 +68,8 @@ Welcome! This repo is intended to highlight some awesome Dart Frog resources —
 - [Elevate Your Flutter Web Hosting with Dart_Frog](https://jxstxn.dev/elevate-your-flutter-web-hosting-with-dartfrog) by Justin Baumann
 - [Building a Full Stack App with Dart and Flutter | MonoRepo, Melos, and Dart 3 Course](https://youtu.be/_LhSRbekY5k) by Codepur
 - [Dart Frog — The Frog Prince 🐸, Building Book Library Apis with Dart Frog](https://medium.com/@yousefsalah_85714/dart-frog-the-frog-prince-8dbb647b3e99) by Yousef Salah Kassem
+- [Seamless Full Stack Development using Flutter & Dart Frog](https://verygood.ventures/blog/seamless-full-stack-development-using-flutter-dart-frog) by Tom Arra
+  - [Video Version](https://www.youtube.com/watch?v=2DJhzbhW0lQ)
 
 ## Libraries and plugins
 
@@ -67,7 +77,7 @@ Welcome! This repo is intended to highlight some awesome Dart Frog resources —
 
 - [dart_frog_web_socket](https://pub.dev/packages/dart_frog_web_socket) by [Very Good Ventures](https://github.com/VeryGoodOpenSource): WebSocket support for Dart Frog.
 - [dart_frog_auth](https://pub.dev/packages/dart_frog_auth) by [Very Good Ventures](https://github.com/VeryGoodOpenSource): Header Authorization support for Dart Frog.
-  
+
 ### Community
 
 - [sentry_dart_frog](https://pub.dev/packages/sentry_dart_frog) by [ueman](https://github.com/ueman): Sentry integration for dart_frog. Capture errors and trace performance.
@@ -83,7 +93,6 @@ Welcome! This repo is intended to highlight some awesome Dart Frog resources —
 - [Talk Stream](https://github.com/Yczar/talk-stream-backend): A chat application built using Flutter & Dart Frog, by [Yczar](https://github.com/Yczar).
 - [Rive Live](https://github.com/rive-app/rive_live): An app built by the [Rive team](https://rive.app/) to interact with their team during their [livestreams](https://www.youtube.com/watch?v=1Nilq-avNc4).
 - [Book Library System](https://github.com/YousefSalahKassem/book_library): A book library system built using Dart Frog including Postman collection by [Yousef Salah kassem](https://github.com/YousefSalahKassem).
-
 
 ### Apps
 
